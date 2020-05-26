@@ -400,7 +400,7 @@
     "region": "North America"
   },
   {
-    "date": "08 Apr",
+    "date": "08 May",
     "description": "With the unemployment rate skyrocketing to 14.7%, this is the nation's worst devastation since the Great Depression.",
     "link": "https://www.nytimes.com/interactive/2020/05/08/business/economy/april-jobs-report.html",
     "title": "A record 20.5 million American jobs were lost in April.",
@@ -408,7 +408,7 @@
     "region": "North America"
   },
   {
-    "date": "12 Apr",
+    "date": "12 May",
     "description": "even after coronavirus shutdowns end. Major tech companies have been early to shift to work-from-home models, but Twitter's announcement stands out as among the most generous.",
     "link": "https://www.nbcnews.com/tech/tech-news/twitter-employees-can-work-home-forever-ceo-says-n1205346",
     "title": "Twitter lets employees work from home 'forever',",
@@ -417,10 +417,26 @@
   },
   {
     "date": "18 May",
-    "description": "as one of the world's coronavirus hotspots. Bolsonaro was seen snapping selfies with children yesterday; he is the 'biggest threat' to Brazil's fight against COVID-19, according to medical journal, The Lancet.",
+    "description": "as one of the world's coronavirus hotspots. Bolsonaro was seen snapping selfies with children yesterday. According to The Lancet, he is the 'biggest threat' to Brazil's fight against COVID-19.",
     "link": "https://www.telegraph.co.uk/news/2020/05/18/coronavirus-sao-paulos-mayor-warns-health-system-brazils-biggest/",
     "title": "Brazil's President defies lockdown orders, as the nation emerges",
     "type": "Society",
     "region": "South America"
+  },
+  {
+    "date": "21 May",
+    "description": "Those without the app installed face prison time and fines of up to QR200,000. Contact tracing apps are fuelling privacy concerns; at least 14 countries are now using them, but most are voluntary.",
+    "link": "https://www.buzzfeednews.com/article/meghara/qatar-coronavirus-tracking-app-mandatory",
+    "title": "Qatar makes its contact tracing app mandatory for all residents 'leaving the house for any reason'.",
+    "type": "Society",
+    "region": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "Middle East",
+      "North America",
+      "Oceania",
+      "South America"
+    ]
   }
 ]
