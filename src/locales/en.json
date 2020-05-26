@@ -1,0 +1,33 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About"
+  },
+  "home": {
+    "intro": {
+      "headline": "It is strange.",
+      "body": [
+        "And it’s scary.",
+        "But all of these strange and scary things are starting to feel normal. So, here you’ll find the most significant ones.",
+        "This is a collection of the historic ways our world is changing, while standing still. Use it to orient yourself, or use it as a record of this unparalleled time."
+      ]
+    }
+  },
+  "about": {
+    "title": "About",
+    "subtitle": "omgcovid",
+    "intro": {
+      "headline": "These are the historic ways",
+      "body": [
+        "our world is changing, while standing still. Read them to acknowledge the surreal happenings in the world right now. And maybe even to get perspective; as we begin to move forward, let’s hope for renewed thinking on what matters."
+      ]
+    },
+    "resources": {
+      "headline": "Some sites we like"
+    }
+  },
+  "filters": {
+    "all": "All"
+  },
+  "footer": "This project is open source"
+}
