@@ -1,7 +1,7 @@
 #  Background
 👨‍💻  👨‍🎨 ✍️
 
-We came up with this project idea in February when everything was beginning to shut down. At the time, it felt like a novelty. But as things progressed, we realised we're living out a historic time. So, we made this. It's a collection of the ways the world is changing.
+We came up with this project idea in February when everything was beginning to shut down. As each day passed, news from around the world was getting more and more surreal. Overwhelming. Blurry. So, we made this. It’s a collection of the historic ways the world is changing.
 
 ## 🗞 To contribute
 
