@@ -85,7 +85,7 @@ p {
 }
 span {
   display: block;
-  color: var(--color-accent-dark);
+  color: var(--color-dark-light);
   padding-top: $spacer-xs;
   padding-bottom: $spacer-md;
 }
