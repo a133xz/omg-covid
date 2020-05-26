@@ -1,0 +1,442 @@
+[
+  {
+    "date": "23 Jan",
+    "description": "home to 11 million people. Transportation is blocked, two days before Lunar New Year.",
+    "link": "https://www.businessinsider.com/wuhan-coronavirus-outbreak-how-china-coping-photos-2020-1?r=US&IR=T",
+    "title": "China cuts off the city of Wuhan,",
+    "type": "Society",
+    "region": "Asia"
+  },
+  {
+    "date": "27 Jan",
+    "description": "from entering, while more than a dozen airlines around the world have stopped flying to mainland China altogether. In today's globalised world, the restrictions are momentous.",
+    "link": "https://qz.com/1793858/wuhan-virus-borders-closed-airlines-cancel-china-flights/",
+    "title": "At least ten countries are restricting access to Chinese citizens",
+    "type": "Borders",
+    "region": "Asia"
+  },
+  {
+    "date": "28 Jan",
+    "description": "suspends planes in and out of the city, and cancels Chinese New Year festivities. Hong Kong is reporting 41 deaths, and the global death toll is at 4,368.",
+    "link": "https://www.businessinsider.com/hong-kong-shutting-down-schools-until-february-17-over-coronavirus-2020-1?r=US&IR=T",
+    "title": "Declaring a citywide emergency, Hong Kong shuts all schools,",
+    "type": "Society",
+    "region": "Asia"
+  },
+  {
+    "date": "05 Feb",
+    "description": "as ten people test positive for coronavirus. Over the next two weeks, the number of passenger cases will balloon to 705.",
+    "link": "https://www.telegraph.co.uk/travel/cruises/articles/diamond-princess-from-dream-voyage-to-quarantine-story/",
+    "title": "A cruise ship quarantines 3,600 people on board",
+    "type": "Society",
+    "region": "Asia"
+  },
+  {
+    "date": "07 Feb",
+    "description": "its operations. Hyundia in South Korea is a five-plant network, which can make 1.4 million vehicles annually.",
+    "link": "https://www.straitstimes.com/business/economy/coronavirus-claims-worlds-biggest-capacity-car-plant",
+    "title": "The most productive car factory in the world stops",
+    "type": "Business",
+    "region": "Asia"
+  },
+  {
+    "date": "28 Feb",
+    "description": "since crossings between the two sides eased in 2003. The move is criticised by peace activists; 'this measure is not only an insult to our intelligence but also to the rights of our people.'",
+    "link": "https://www.reuters.com/article/us-china-health-cyprus-checkpoints-idUSKCN20M1T6",
+    "title": "Cyprus shuts its checkpoints for the first time",
+    "type": "Borders",
+    "region": "Middle East"
+  },
+  {
+    "date": "04 Mar",
+    "description": "due to the coronavirus. MGM now plans to release No Time to Die this November.",
+    "link": "https://edition.cnn.com/2020/03/06/media/coronavirus-james-bond-box-office/index.html",
+    "title": "The new Bond film is the first major Hollywood film to postpone its release.",
+    "type": "Culture",
+    "region": "North America"
+  },
+  {
+    "date": "06 Mar",
+    "description": "400,000 attendees were set to attend the festival. More than 50,000 people had signed a petition urging organisers to pull the plug.",
+    "link": "https://www.sxsw.com/2020-event-update",
+    "title": "The city of Austin cancels SXSW seven days before",
+    "type": "Culture",
+    "region": "North America"
+  },
+  {
+    "date": "10 Mar",
+    "description": "cancel rallies in Cleveland, ahead of the primaries in one week. It’s a notable cancellation during a pivotal time in the Democratic presidential race.",
+    "link": "https://www.cnbc.com/2020/03/10/bernie-sanders-campaign-cancels-ohio-rally-tuesday-due-to-coronavirus-concerns.html",
+    "title": "The United States presidential race is disrupted, as Sanders and Biden",
+    "type": "Society",
+    "region": "North America"
+  },
+  {
+    "date": "10 Mar",
+    "description": "within five days. It will begin shifting to online learning, along with a growing number of colleges.",
+    "link": "https://fortune.com/2020/03/10/harvard-coronavirus-evacuation-covid-19/",
+    "title": "Harvard instructs students to move out of their dorms",
+    "type": "Society",
+    "region": "North America"
+  },
+  {
+    "date": "11 Mar",
+    "description": "The parade has taken place annually since its inception in 1762. York is reporting over 200 cases.",
+    "link": "https://nypost.com/2020/03/11/nyc-st-patricks-day-parade-canceled-latest-victim-of-coronavirus/",
+    "title": "New York cancels St. Patrick’s Day celebrations for the first time in 258 years.",
+    "type": "Culture",
+    "region": "North America"
+  },
+  {
+    "date": "12 Mar",
+    "description": "indefinitely. New York City has 62 confirmed cases to date.",
+    "link": "https://www.dezeen.com/2020/03/12/the-met-museum-closes-new-york-coronavirus/",
+    "title": "New York's Broadway, MoMA, the Met and Guggenheim all close",
+    "type": "Culture",
+    "region": "North America"
+  },
+  {
+    "date": "12 Mar",
+    "description": "'out of an abundance of caution.' With 259 games left to play this season, it's unclear when, or if, the season will resume.",
+    "link": "https://www.espn.co.uk/nba/story/_/id/28887560/nba-suspends-season-further-notice-player-tests-positive-coronavirus",
+    "title": "After a player tests positive for COVID-19, the NBA suspends its season",
+    "type": "Culture",
+    "region": "North America"
+  },
+  {
+    "date": "12 Mar",
+    "description": "most working jobs that cannot be done from home, like fulfillment centre workers and drivers. Amazon employs nearly 800,000 people globally.",
+    "link": "https://techcrunch.com/2020/03/12/amazon-asks-all-employees-to-work-from-home-if-they-can/",
+    "title": "Amazon asks employees to work from home 'if able to', despite",
+    "type": "Business",
+    "region": "North America"
+  },
+  {
+    "date": "13 Mar",
+    "description": "'until further notice'. The Eiffel Tower and Versailles also close, following France’s ban on 100 person gatherings.",
+    "link": "https://www.france24.com/en/20200313-france-s-louvre-museum-and-versailles-palace-to-shut-over-coronavirus-crisis",
+    "title": "The Louvre, the world's most visited museum, shuts down",
+    "type": "Culture",
+    "region": "Europe"
+  },
+  {
+    "date": "13 Mar",
+    "description": "including the Boston and London Marathons, elite football, the Masters Tournament, the NHL season, and the Giro d’Italia.",
+    "link": "https://www.bbc.co.uk/sport/football/51867989",
+    "title": "Around the world, major sporting events halt,",
+    "type": "Culture",
+    "region": "Europe; North America; Asia"
+  },
+  {
+    "date": "13 Mar",
+    "description": "announcing a 40% reduction due to demand dropoff. It’s the biggest cut in operations in the airline’s history, including post 9/11.",
+    "link": "https://www.cnbc.com/2020/03/13/coronavirus-delta-slashes-flights-by-40percent-as-virus-cripples-global-travel.html",
+    "title": "Delta Air Lines is one of the first major airlines to significantly cut flights,",
+    "type": "Business",
+    "region": "North America"
+  },
+  {
+    "date": "14 Mar",
+    "description": "Trump says European nations 'failed to take the same precautions' as he did in enforcing travel restrictions from China. The ban applies to the 26 countries in the Schengen area.",
+    "link": "https://www.nytimes.com/2020/03/12/world/europe/trump-travel-ban-coronavirus.html",
+    "title": "The United States announces sweeping restrictions on visitors from Europe.",
+    "type": "Borders",
+    "region": "North America"
+  },
+  {
+    "date": "18 Mar",
+    "description": "from crossing the Colombian border daily, as the country bans foreign visitors. Colombia is the world's largest cocaine producer, and experts predict fleeing Venezualans will be pushed to engage in organized crime.",
+    "link": "https://www.occrp.org/en/daily/11853-colombia-closing-borders-due-to-covid-19-may-boost-organized-crime",
+    "title": "Thousands of Venezuelan refugees and migrants will be blocked",
+    "type": "Borders",
+    "region": "South America"
+  },
+  {
+    "date": "21 Mar",
+    "description": "to help reduce the immense stress on internet infrastructure, as millions of people are self-isolating.",
+    "link": "https://arstechnica.com/tech-policy/2020/03/netflix-and-youtube-cut-streaming-quality-in-europe-to-handle-pandemic/",
+    "title": "Netflix and YouTube cut video quality in Europe",
+    "type": "Culture",
+    "region": "Europe"
+  },
+  {
+    "date": "23 Mar",
+    "description": "procedures. This means that most abortions will be 'postponed' until the pandemic is deemed over.",
+    "link": "https://www.nytimes.com/2020/03/23/us/coronavirus-texas-ohio-abortion.html?action=click&module=Top%20Stories&pgtype=Homepage",
+    "title": "Texas and Ohio order abortions as non-essential",
+    "type": "Society",
+    "region": "North America"
+  },
+  {
+    "date": "24 Mar",
+    "description": "until next year, after much speculation. This is the first time the games have been postponed.",
+    "link": "https://www.latimes.com/sports/olympics/story/2020-03-24/olympics-history-tokyo-games-postponed",
+    "title": "In a historic decision, the Tokyo Olympics 2020 will not happen",
+    "type": "Culture",
+    "region": "Asia"
+  },
+  {
+    "date": "24 Mar",
+    "description": "The first 100,000 cases of COVID-19 took 67 days to appear.",
+    "link": "https://www.reuters.com/article/us-health-coronavirus-usa/coronavirus-forces-states-to-order-nearly-one-in-three-americans-to-stay-home-idUSKBN2190MQ",
+    "title": "With a surge of 100,000 cases in four days, about one in five people worldwide are now in lockdown.",
+    "type": "Society",
+    "region": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "Middle East",
+      "North America",
+      "Oceania",
+      "South America"
+    ]
+  },
+  {
+    "date": "24 Mar",
+    "description": "its 1.3 billion population. The country has just one isolation bed per 84,000 people, and one doctor per 11,600 people.",
+    "link": "https://www.theguardian.com/world/2020/mar/24/indias-13bn-population-locked-down-to-beat-coronavirus",
+    "title": "In the hope of averting catastrophe for its poor healthcare services, India locks down",
+    "type": "Society",
+    "region": "Asia"
+  },
+  {
+    "date": "25 Mar",
+    "description": "and 205 cases. The lockdown will continue for the next four weeks, at least. Prime Minister, Jacinda Ardern says, 'be kind, stay at home.'",
+    "link": "https://www.rnz.co.nz/news/national/412606/covid-19-new-zealand-is-now-in-lockdown",
+    "title": "New Zealand enters full lockdown, as it reports zero deaths",
+    "type": "Society",
+    "region": "Oceania"
+  },
+  {
+    "date": "30 Mar",
+    "description": "and suspend elections indefinitely. 'At this point, Hungary is on full dictatorship.'",
+    "link": "https://www.businessinsider.com/countries-on-lockdown-coronavirus-italy-2020-3?r=US&IR=T#the-uk-went-into-full-coronavirus-lockdown-on-march-23-1",
+    "title": "Hungary's Prime Minister gains the power to rule by decree",
+    "type": "Society",
+    "region": "Europe"
+  },
+  {
+    "date": "31 Mar",
+    "description": "so far. Millions of workers are being sent home without their owed wages. Bangladesh is the second largest clothing exporter in the world.",
+    "link": "https://www.theguardian.com/world/live/2020/mar/31/coronavirus-live-news-usa-confirmed-cases-double-china-update-uk-italy-spain-europe-latest-updates?page=with:block-5e8290ee8f08a8efb3ba9465#liveblog-navigation",
+    "title": "Fashion retailers stop US$3bn in Bangladesh garment factory orders,",
+    "type": "Society",
+    "region": "Asia"
+  },
+  {
+    "date": "01 Apr",
+    "description": "until next year. COP26 was originally planned to take place in November, seven months out from now. The head of UN Climate Change insists, 'COVID-19 is the most urgent threat facing humanity today, but we cannot forget that climate change is the biggest threat facing humanity over the long term.'",
+    "link": "https://www.climatechangenews.com/2020/04/01/cop26-climate-talks-postponed-2021-amid-coronavirus-pandemic/",
+    "title": "This year's vital United Nations climate talks will not happen",
+    "type": "Society",
+    "region": "Europe"
+  },
+  {
+    "date": "01 Apr",
+    "description": "July 13 at least, as Wimbledon gets cancelled. This is the first time the iconic tournament has not gone ahead since World War II.",
+    "link": "https://www.bbc.co.uk/sport/tennis/52104196",
+    "title": "No professional tennis will be played anywhere in the world until",
+    "type": "Culture",
+    "region": "Europe"
+  },
+  {
+    "date": "01 Apr",
+    "description": "to more than 150 countries due to flight shortages. The national postal service will limit services to just a handful of countries.",
+    "link": "https://www.aljazeera.com/news/2020/04/chief-coronavirus-worst-crisis-wwii-live-updates-200331233659496.html",
+    "title": "Japan Post is no longer delivering parcels and letters",
+    "type": "Society",
+    "region": "Asia"
+  },
+  {
+    "date": "02 Apr",
+    "description": "Women are permitted to leave their homes on Mondays, Wednesdays, and Fridays to buy necessities. Men may go outside to run errands on Tuesdays, Thursdays, and Saturdays. Everyone must stay home on Sundays.",
+    "link": "https://edition.cnn.com/2020/04/01/world/panama-coronavirus-sex-intl/index.html",
+    "title": "Under national quarantine, Panama separates men and women.",
+    "type": "Society",
+    "region": "North America"
+  },
+  {
+    "date": "02 Apr",
+    "description": "who do not follow lockdown rules. The announcement comes following street protests where residents claimed they hadn't received any food supplies since the lockdown began. 'Do not challenge the government. You will lose.'",
+    "link": "https://www.cbsnews.com/news/rodrigo-duterte-philippines-president-coronavirus-lockdown-shoot-people-dead/",
+    "title": "The President of the Philippines threatens to shoot citizens",
+    "type": "Society",
+    "region": "Asia"
+  },
+  {
+    "date": "07 Apr",
+    "description": "while infected with COVID-19. 'We will be strict in applying the law. Our responsibility is to protect the people.'",
+    "link": "https://english.alarabiya.net/en/News/north-africa/2020/04/07/Coronavirus-Tunis-warns-rule-breaking-carriers-face-manslaughter-charge",
+    "title": "Tunisians face manslaughter if they do not self-isolate",
+    "type": "Society",
+    "region": "Africa"
+  },
+  {
+    "date": "08 Apr",
+    "description": "of a looming global condom shortage. Karex announces it will make two million fewer condoms in the month of April alone.",
+    "link": "https://www.insider.com/looming-global-shortage-of-condoms-could-be-devastating-un-says-2020-4",
+    "title": "As condom factories close, the United Nations warns",
+    "type": "Business",
+    "region": "Asia"
+  },
+  {
+    "date": "08 Apr",
+    "description": "until further notice. The move is based on Islamic jurisprudence, which holds that 'repelling an evil is preferable to securing a benefit.'",
+    "link": "https://www.aljazeera.com/news/2020/04/dubai-suspends-marriages-divorces-curb-spread-coronavirus-200408143415876.html",
+    "title": "Dubai suspends all marriages and divorces",
+    "type": "Society",
+    "region": "Middle East"
+  },
+  {
+    "date": "08 Apr",
+    "description": "with the country declaring its ports unsafe. Migrant services warn of a 'deadly rescue gap' off the Libyan coast as people will be forced to navigate even further by sea.'",
+    "link": "https://www.theguardian.com/world/2020/apr/08/italy-declares-own-ports-unsafe-to-stop-migrants-disembarking",
+    "title": "Migrant rescue boats are blocked from disembarking in Italy,",
+    "type": "Borders",
+    "region": "Europe"
+  },
+  {
+    "date": "09 Apr",
+    "description": "More than a million Rohingya refugees are living in cramped camps in Cox's Bazar. The movement of aid workers is not exempt from restrictions, which means vital support to the camps is cut by 80%.",
+    "link": "http://www.rfi.fr/en/international/20200409-rohingya-camps-in-bangladesh-in-complete-coronavirus-lockdown-risk-spread-covid-19",
+    "title": "The largest refugee settlement in the world locks down.",
+    "type": "Society",
+    "region": "Asia"
+  },
+  {
+    "date": "10 Apr",
+    "description": "which is more than the number of people alive during World War II. 'Lockdown' isn't a technical term; it can include mandatory quarantines to stay-at-home requests.",
+    "link": "https://www.sciencealert.com/one-third-of-the-world-s-population-are-now-restricted-in-where-they-can-go",
+    "title": "A third of the global population is now on lockdown,",
+    "type": "Society",
+    "region": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "Middle East",
+      "North America",
+      "Oceania",
+      "South America"
+    ]
+  },
+  {
+    "date": "11 Apr",
+    "description": "as supply chains are disrupted. Due to statewide shutdowns in the United States, mountains of fresh produce cannot be sold to closed restaurants, hotels, and schools.",
+    "link": "https://www.nytimes.com/2020/04/11/business/coronavirus-destroying-food.html",
+    "title": "Farmers are dumping tens of millions of pounds of fresh food",
+    "type": "Business",
+    "region": "North America"
+  },
+  {
+    "date": "12 Apr",
+    "description": "as part of an agreement by the world's largest oil suppliers. This is the single biggest output cut in history.",
+    "link": "https://www.cnbc.com/2020/04/12/opec-and-allies-finalize-record-oil-production-cut-after-days-of-discussion.html",
+    "title": "Oil production is cut by 9.7 million barrels every single day",
+    "type": "Business",
+    "region": "North America"
+  },
+  {
+    "date": "15 Apr",
+    "description": "and call on private creditors to follow suit. The debt assistance could be worth 'north of $20bn' for the world's poorest nations, freeing up money to spend on improving healthcare systems right now.",
+    "link": "https://www.ft.com/content/5f296d54-d29e-4e87-ae7d-95ca6c0598d5",
+    "title": "G20 countries freeze debt for low-income countries until the end of 2020,",
+    "type": "Business",
+    "region": "Middle East"
+  },
+  {
+    "date": "15 Apr",
+    "description": "In March, sales slumped 8.7% in the United States. Consumer spending powers two-thirds of the nation's economy, and economists predict it will shrink by a record-shattering 40% this quarter.",
+    "link": "https://eu.usatoday.com/story/money/business/2020/04/15/coronavirus-shutdown-drives-retail-sales-down-record-8-7-march/5136207002/",
+    "title": "Retail sales fall twice as hard as the record slump of the Great Recession.",
+    "type": "Business",
+    "region": "North America"
+  },
+  {
+    "date": "15 Apr",
+    "description": "with Trump stating that the body has 'failed in its basic duty' to protect the world from coronavirus. The United States provided more than $400m to the WHO last year. Bill Gates says the move is 'as dangerous as it sounds'.",
+    "link": "https://www.bbc.co.uk/news/world-us-canada-52291654",
+    "title": "The World Health Organisation's largest funder stops contributions,",
+    "type": "Society",
+    "region": "North America"
+  },
+  {
+    "date": "16 Apr",
+    "description": "according to Barack Obama. In an online commencement speech, he urged graduates to seize initiative at a time when many leaders 'aren’t even pretending to be in charge.'",
+    "link": "https://www.nytimes.com/2020/05/16/us/barack-obama-2020-commencement-graduation-speech.html",
+    "title": "The pandemic has 'torn back the curtain on the idea that so many of the folks in charge know what they’re doing',",
+    "type": "Society",
+    "region": "North America"
+  },
+  {
+    "date": "17 Apr",
+    "description": "in all-caps, 'LIBERATE MICHIGAN!', 'LIBERATE MINNESOTA! and 'LIBERATE VIRGINAIA, and save your great 2nd Amendment. It is under siege!'",
+    "link": "https://www.nytimes.com/2020/04/17/us/politics/trump-coronavirus-governors.html",
+    "title": "Trump supports right-wing protests against stay-at-home measures, tweeting",
+    "type": "Society",
+    "region": "North America"
+  },
+  {
+    "date": "17 Apr",
+    "description": "since the Mao era in the 1970s. With gross domestic product shrinking 6.8% from a year ago, the historic collapse leaves China reliant on local demand to spur recovery.",
+    "link": "https://www.bloomberg.com/news/articles/2020-04-17/china-s-economy-contracts-for-first-time-since-at-least-1992",
+    "title": "China, the world's second largest economy, suffers its first contraction",
+    "type": "Business",
+    "region": "Asia"
+  },
+  {
+    "date": "20 Apr",
+    "description": "two metres apart and wearing face masks. Amid Israel's long political crisis, Netanyahu is negotiating a coalition deal with his rival party. He is under indictment for corruption in three cases, but denies any wrongdoing.",
+    "link": "https://www.aljazeera.com/news/2020/04/israelis-demonstrate-netanyahu-coronavirus-pandemic-200420074217211.html",
+    "title": "Thousands of Israelis protest against the Prime Minister, while social distancing",
+    "type": "Society",
+    "region": "Middle East"
+  },
+  {
+    "date": "22 Apr",
+    "description": "Since most immigration is already on pause due to COVID-19, the move is largely seen as symbolic. Trump says the order is needed to protect 'GREAT American Citizens'.",
+    "link": "https://edition.cnn.com/2020/04/22/politics/immigration-executive-order-trump/",
+    "title": "Trump signs an executive order blocking immigration to the United States.",
+    "type": "Borders",
+    "region": "North America"
+  },
+  {
+    "date": "08 May",
+    "description": "With the unemployment rate skyrocketing to 14.7%, this is the nation's worst devastation since the Great Depression.",
+    "link": "https://www.nytimes.com/interactive/2020/05/08/business/economy/april-jobs-report.html",
+    "title": "A record 20.5 million American jobs were lost in April.",
+    "type": "Business",
+    "region": "North America"
+  },
+  {
+    "date": "12 May",
+    "description": "even after coronavirus shutdowns end. Major tech companies have been early to shift to work-from-home models, but Twitter's announcement stands out as among the most generous.",
+    "link": "https://www.nbcnews.com/tech/tech-news/twitter-employees-can-work-home-forever-ceo-says-n1205346",
+    "title": "Twitter lets employees work from home 'forever',",
+    "type": "Business",
+    "region": "North America"
+  },
+  {
+    "date": "18 May",
+    "description": "as one of the world's coronavirus hotspots. Bolsonaro was seen snapping selfies with children yesterday. According to The Lancet, he is the 'biggest threat' to Brazil's fight against COVID-19.",
+    "link": "https://www.telegraph.co.uk/news/2020/05/18/coronavirus-sao-paulos-mayor-warns-health-system-brazils-biggest/",
+    "title": "Brazil's President defies lockdown orders, as the nation emerges",
+    "type": "Society",
+    "region": "South America"
+  },
+  {
+    "date": "21 May",
+    "description": "Those without the app installed face prison time and fines of up to QR200,000. Contact tracing apps are fuelling privacy concerns; at least 14 countries are now using them, but most are voluntary.",
+    "link": "https://www.buzzfeednews.com/article/meghara/qatar-coronavirus-tracking-app-mandatory",
+    "title": "Qatar makes its contact tracing app mandatory for all residents 'leaving the house for any reason'.",
+    "type": "Society",
+    "region": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "Middle East",
+      "North America",
+      "Oceania",
+      "South America"
+    ]
+  }
+]
