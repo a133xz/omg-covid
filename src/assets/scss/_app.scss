@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// Default colors
+:root {
+  @each $color, $value in $colors {
+    --color-#{$color}: #{$value};
+  }
+}
+
+// Base font
+html {
+  font-size: #{$base-font-size}px;
+  @include breakpoint(mobile-only) {
+    font-size: #{$base-font-size-mobile}px;
+  }
+}
+
+//
+// Layout
+//
+body {
+  @include font-regular;
+  font-size: 1rem;
+  color: var(--color-dark);
+  padding: 0;
+}
+
+#app {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin: 3.5rem auto $spacer-xs;
+  max-width: $screen-lg;
+}
+
+h1,
+h2,
+.h2,
+nav {
+  @include font-bold;
+}
+
+h1 {
+  font-size: rem-calc(64);
+  line-height: rem-calc(64);
+  margin-bottom: $spacer-xs;
+}
+
+h2,
+.h2 {
+  font-size: rem-calc(28);
+  line-height: rem-calc(20);
+}
+
+.h3,
+h3 {
+  @include font-regular;
+  font-size: rem-calc(23);
+}
+
+p {
+  margin-top: $spacer-xs;
+  margin-bottom: $spacer-sm;
+}
+
+a {
+  color: var(--color-dark);
+  cursor: pointer;
+  text-decoration: none;
+  &:hover {
+    color: var(--color-accent);
+  }
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+main {
+  position: relative;
+  padding-bottom: $spacer-xxl;
+}
+
+//
+// Utilities
+//
+.flex-between {
+  display: flex;
+  justify-content: space-between;
+}
+.p-y-spacer-lg {
+  @include p-y-spacer-lg;
+}
