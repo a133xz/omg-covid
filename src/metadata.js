@@ -2,43 +2,43 @@
 import config from '../gridsome.config';
 const metadata = [
   {
-    name: 'og:type',
+    property: 'og:type',
     content: 'website'
   },
   {
-    name: 'og:url',
+    property: 'og:url',
     content: config.siteUrl
   },
   {
-    name: 'og:title',
+    property: 'og:title',
     content: config.metaTitle
   },
   {
-    name: 'og:description',
+    property: 'og:description',
     content: config.siteDescription
   },
   {
-    name: 'og:image',
+    property: 'og:image',
     content: config.metaImage
   },
   {
-    name: 'twitter:card',
+    property: 'twitter:card',
     content: 'summary_large_image'
   },
   {
-    name: 'twitter:url',
+    property: 'twitter:url',
     content: config.siteUrl
   },
   {
-    name: 'twitter:title',
+    property: 'twitter:title',
     content: config.metaTitle
   },
   {
-    name: 'twitter:description',
+    property: 'twitter:description',
     content: config.siteDescription
   },
   {
-    name: 'twitter:image',
+    property: 'twitter:image',
     content: config.metaImage
   }
 ];
