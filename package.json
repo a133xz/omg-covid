@@ -1,6 +1,22 @@
 {
   "name": "omg-covid",
-  "private": true,
+  "description": "A record of our changing world",
+  "version": "1.0.0",
+  "author": {
+    "name": "Antonio R"
+  },
+  "keywords": [
+    "gridsome",
+    "vuejs",
+    "semantic-html",
+    "vercel",
+    "omg-covid"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a133xz/omg-covid.git"
+  },
+  "license": "MIT",
   "scripts": {
     "serve": "gridsome develop",
     "build": "gridsome build",
